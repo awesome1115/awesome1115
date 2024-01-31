@@ -12,3 +12,8 @@
 - 📲 Mobile: Android, Java, Kotlin, iOS, Swift, Objective-C, React Native, Ionic
 - 🧩 Database : MySQL, PostgreSQL, MongoDB, MariaDB, SQLite
 - 📫 Interesting : AI, Football
+| Month    | Savings |
+| -------- | ------- |
+| January  | $250    |
+| February | $80     |
+| March    | $420    |
